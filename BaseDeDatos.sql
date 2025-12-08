@@ -64,7 +64,7 @@ CREATE TABLE Detalle_Meseros_Mesas (
 INSERT INTO Detalle_Meseros_Mesas (ID_mesero, ID_mesa) VALUES
 (1, 1), 
 (1, 3), 
-(2, 2),
+(2, 1),
 (3, 4), 
 (4, 5); 
 SELECT * FROM Detalle_Meseros_Mesas;
